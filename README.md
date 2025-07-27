@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Arvan</h1>
 <h3 align="center">Senior Software Engineer with experience at Google, Yahoo, startups with numerous successful launches.</h3>
 
-- 🔭 I’m currently working on [BunkerTrace](https://bunkertrace.co)
+- 🔭 I’m currently working on [The Works](https://theworks.rocks)
 
-- 🌱 I’m currently learning **Go, Machine Learning, Advanced Python, etc**
+- 🌱 I’m currently learning **Rust, Machine Learning, Advanced Python, etc**
 
 - 👯 I’m looking to collaborate on [Open Data Formats](https://opendataformats.org/)
 
